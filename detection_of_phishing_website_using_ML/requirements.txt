@@ -1,0 +1,14 @@
+Django==3.1
+djangorestframework==3.11.1
+numpy==1.18.4
+scikit-learn==0.24.2
+joblib==0.16.0
+# from urllib.parse import urlparse,urlencode
+# import ipaddress
+# import re
+# from bs4 import BeautifulSoup
+# import whois
+# import urllib
+# import urllib.request
+# from datetime import datetime
+# import requests
